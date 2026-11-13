@@ -9,6 +9,6 @@ const ListaSugerencias = () => {
       ))}
     </div>
   )
-}
+ y utiliza}
 
 export default ListaSugerencias
